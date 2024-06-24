@@ -37,7 +37,7 @@ public class Stack {
 
     if (size == 0) {
       top = newNode;
-    } else{
+    } else {
       newNode.setNext(top);
       top = newNode;
     }
@@ -60,7 +60,7 @@ public class Stack {
 
   // Function to print the list in a proper way. Not to relevant.
   public void printStack() {
-    
+
     Node temp = top;
     while (temp != null) {
       System.out.print(temp.getValue() + " -> ");
@@ -68,5 +68,5 @@ public class Stack {
     }
     System.out.print("null \n");
 
-}
+  }
 }
