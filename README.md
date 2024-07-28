@@ -10,8 +10,8 @@
 
 ## What do you explain at superpeer?
 * Explaining the Stack deeply. 
-* I explain how we calculate complext aglorithms complexity.
-* Solving special Stack questions.
+* Explanation of Stack methods compelxity and how to calculate them. 
+* Turkish and English versions are avaiable. 
 
 ## Run Locally
 
